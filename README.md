@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Alex Prengère and I maintain a few Python libraries. Data scientist by trade, snake tamer by night.
+I am Alex Prengère and I maintain a few things. Data scientist by trade, Python enthusiast by night.
 
 <br>
 
