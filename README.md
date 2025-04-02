@@ -7,5 +7,4 @@ I am Alex Prengère and I maintain a few things. Data scientist by trade, Python
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=alexprengere&show_icons=true&" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=alexprengere&hide_border=true" width = 400>
 </p>
